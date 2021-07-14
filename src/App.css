@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.counterClass {
+  padding: 50px;
+  margin: 20px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.blueBorder {
+  border: 1px solid blue;
+}
+
+.inputGroup {
+  margin: 16px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.inputStyle {
+  padding: 5px;
+  font-size: 20px;
+}
+
+.inputButtonStyle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: 16px;
+  background: grey;
+}
